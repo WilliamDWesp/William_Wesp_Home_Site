@@ -1,0 +1,12 @@
+version: 0.2
+
+phases:
+  install:
+  build:
+    commands:
+      - echo uesless
+  post_build:
+    commands:
+      - echo useless
+artifacts:
+  discard-paths: yes
