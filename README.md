@@ -6,7 +6,6 @@ This site is integrated with aws and uses git webhooks.
 AWS will auto update my website when any push happens on github. 
 
 AWS Technologies needed to get this site working:
-  -CodeCommit
   -CodeBuild
   -CodeDeploy
   -CodePipeline
