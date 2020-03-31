@@ -7,4 +7,5 @@ $msg = wordwrap($msg,70);
 
 // send email
 mail("williamdwesp@gmail.com","Test",$msg);
-?>
+
+echo "Good"
