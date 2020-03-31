@@ -1,11 +1,14 @@
 <?php
-// the message
-$msg = "Hello!";
 
-// use wordwrap() if lines are longer than 70 characters
-$msg = wordwrap($msg,70);
+if(isset($_POST['mail'])){
 
-// send email
-mail("williamdwesp@gmail.com","Test",$msg);
+echo "200"
 
-echo "Good"
+}
+else{
+    echo "201"    
+}
+
+
+
+?>

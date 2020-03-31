@@ -3,18 +3,17 @@ function mailphpcall(){
     var body="body";
 
 
-    jQuery.ajax({
+    $.ajax({
         type: "POST",
         url: '/scripts/mail.php',
         dataType: 'json',
         data: {Mail: 'mail', arguments: [header,body]},
 
         success: function (obj, textstatus) {
-            if( !('error' in obj) ) {
-                console.log("Good Job");
-            }
-            else {
-                console.log(obj.error);
+            if (data.code == "200"){
+                alert("Success: " +data.msg);
+            } else {
+                alert("Bad request");
             }
         }
 
