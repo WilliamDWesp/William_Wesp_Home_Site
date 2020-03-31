@@ -1,3 +1,6 @@
+<?php echo phpinfo(); ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
