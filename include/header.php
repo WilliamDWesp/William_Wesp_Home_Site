@@ -8,7 +8,9 @@
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
-        <title>Hello, world!</title>
+        <title>William Wesp's Resume Site</title>
+        <!-- Custom CSS -->
+        <link rel="stylesheet" type="text/css" href="/scripts/Css/General.css">
     </head>
     <body>
     <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #9dedc4;">
