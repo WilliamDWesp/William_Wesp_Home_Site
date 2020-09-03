@@ -8,6 +8,9 @@
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
+        <!-- Icons via font awesome -->
+        <script src="https://kit.fontawesome.com/0ebb8ea6b6.js" crossorigin="anonymous"></script>
+
         <title>William Wesp's Resume Site</title>
         <!-- Custom CSS -->
         <link rel="stylesheet" type="text/css" href="/scripts/Css/General.css">
@@ -24,10 +27,13 @@
                     <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link" href="#">Projects</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" href="#">Resume</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">From</a>
+                    <a class="nav-link" href="#">form</a>
                 </li>
                 
             </ul>

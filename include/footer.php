@@ -1,7 +1,8 @@
 
 
 
-        
+        <i class="fa fa-linkedin-square"></i>
+        <i class="fa fa-github-square"></i>
 
         <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
