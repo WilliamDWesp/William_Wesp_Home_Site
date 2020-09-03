@@ -1,5 +1,5 @@
 <?php
-include '/include/header.html';
+include_once('include/header.php');
 
 
 ?>
@@ -24,4 +24,4 @@ include '/include/header.html';
 
 <?php
 
-include '/include/footer.html';
+include_once('include/footer.php');
