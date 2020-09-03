@@ -1,8 +1,26 @@
 
 
 
-        <i class="fa fa-linkedin-square"></i>
-        <i class="fa fa-github-square"></i>
+        
+        <div class="container">
+            <div class="row">
+                <a class="btn btn-social btn-github">
+                    <span class="fa fa-github"></span> Find me on  github
+                </a>
+                <a class="btn btn-social btn-linkedin">
+                    <span class="fa fa-linkedin"></span> Find me on  github
+                </a>
+            </div>
+            <div class="row">
+                <a class="">
+                    <span class=""></span> Email: williamdwesp@gmail.com or wwesp@missouriwestern.edu
+                </a>
+                <a class="btn btn-social btn-linkedin">
+                    <span class="fa fa-linkedin"></span> Phone: +(1) 303-883-7765
+                </a>
+            </div>
+        </div>
+         
 
         <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
