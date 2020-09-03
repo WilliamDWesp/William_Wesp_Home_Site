@@ -4,19 +4,19 @@
         
         <div class="container">
             <div class="row">
-                <a class="btn btn-social btn-github">
+                <a class="btn btn-social btn-github " href="https://github.com/WilliamDWesp">
                     <span class="fa fa-github"></span> Find me on  github
                 </a>
-                <a class="btn btn-social btn-linkedin">
-                    <span class="fa fa-linkedin"></span> Find me on  github
+                <a class="btn btn-social btn-linkedin" href="https://www.linkedin.com/in/william-wesp-865069177/">
+                    <span class="fa fa-linkedin"></span> Find me on  linkedin
                 </a>
             </div>
             <div class="row">
                 <a class="">
                     <span class=""></span> Email: williamdwesp@gmail.com or wwesp@missouriwestern.edu
                 </a>
-                <a class="btn btn-social btn-linkedin">
-                    <span class="fa fa-linkedin"></span> Phone: +(1) 303-883-7765
+                <a class="n">
+                    <span class=""></span> Phone: +(1) 303-883-7765
                 </a>
             </div>
         </div>
