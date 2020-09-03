@@ -24,16 +24,16 @@
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav">
                 <li class="nav-item ">
-                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="/index.php">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Projects</a>
+                    <a class="nav-link" href="/pages/projects.php">Projects</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Resume</a>
+                    <a class="nav-link" href="/pages/resmume.php">Resume</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">form</a>
+                    <a class="nav-link" href="/pages/contact.php">Contact</a>
                 </li>
                 
             </ul>

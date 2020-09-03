@@ -4,10 +4,10 @@
         
         <div class="container">
             <div class="row">
-                <a id="git" class="btn btn-social btn-github ">
+                <a id="git" class="btn btn-social btn-github pl-0">
                     Find me on  github <span class="fa fa-github"></span>
                 </a>
-                <a id="linked" class="btn btn-social btn-linkedin" >
+                <a id="linked" class="btn btn-social btn-linkedin pl-0" >
                     Find me on  linkedin <span class="fa fa-linkedin"></span>
                 </a>
             </div>
