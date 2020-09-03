@@ -1,12 +1,27 @@
+<?php
+include '/include/header.html';
 
 
+?>
 
-<!DOCTYPE html>
-<html lang="en">
+
+<style>
+</style>
+
 <head>
-    <title>William D Wesp's home site</title>
+    <title>Testing Bootstrap!</title>
 </head>
 <body>
-    TESTING 123, This is the home of a future resume! AWS TEST PIPELINE CHANGE
+
+<div class="input-group mb-3">
+  <div class="input-group-prepend">
+    <span class="input-group-text" id="basic-addon1">@</span>
+  </div>
+  <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
+</div>
+
 </body>
-</html>
+
+<?php
+
+include '/include/footer.html';
