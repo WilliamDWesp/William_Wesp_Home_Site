@@ -5,18 +5,18 @@
         <div class="container">
             <div class="row">
                 <a id="git" class="btn btn-social btn-github ">
-                    <span class="fa fa-github"></span> Find me on  github
+                    Find me on  github <span class="fa fa-github"></span>
                 </a>
                 <a id="linked" class="btn btn-social btn-linkedin" >
-                    <span class="fa fa-linkedin"></span> Find me on  linkedin
+                    Find me on  linkedin <span class="fa fa-linkedin"></span>
                 </a>
             </div>
             <div class="row">
                 <a class="">
-                    <span class=""></span>    Email: williamdwesp@gmail.com or wwesp@missouriwestern.edu
+                    <span class=""></span>Email: williamdwesp@gmail.com or wwesp@missouriwestern.edu
                 </a>
                 <a class="n">
-                    <span class=""></span>    Phone: +(1) 303-883-7765
+                    <span class=""></span>Phone: +(1) 303-883-7765
                 </a>
             </div>
         </div>
