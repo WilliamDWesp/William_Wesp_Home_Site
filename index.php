@@ -7,6 +7,6 @@
     <title>William D Wesp's home site</title>
 </head>
 <body>
-    TESTING 123, This is the home of a future resume!
+    TESTING 123, This is the home of a future resume! AWS TEST PIPELINE CHANGE
 </body>
 </html>
