@@ -11,8 +11,8 @@
         <title>Hello, world!</title>
     </head>
     <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light" style="background-color: #50d48e;">
-        <a class="navbar-brand" href="#">Navbar</a>
+    <nav class="navbar navbar-light" style="background-color: #50d48e;">
+        <a class="navbar-brand" href="#">William David Wesp</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
