@@ -15,7 +15,9 @@
                 <a class="">
                     <span class=""></span>Email: williamdwesp@gmail.com or wwesp@missouriwestern.edu
                 </a>
-                <a class="n">
+            </div>
+            <div class="row">
+                <a class="">
                     <span class=""></span>Phone: +(1) 303-883-7765
                 </a>
             </div>

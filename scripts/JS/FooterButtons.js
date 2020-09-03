@@ -1,11 +1,8 @@
 $("#git").click(function() {
-    alert( "Handler for .click() called." );
-    console.log("I happen")
+    window.open("https://github.com/WilliamDWesp", '_blank');
 });
 
 $("#linked").click(function() {
-    alert( "Handler for .click() called." );
-    console.log("I happen")
+    window.open("https://www.linkedin.com/in/william-wesp-865069177/", '_blank');
 });
-///"https://github.com/WilliamDWesp"
-//"https://www.linkedin.com/in/william-wesp-865069177/"
+
