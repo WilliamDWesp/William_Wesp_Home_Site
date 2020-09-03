@@ -11,14 +11,14 @@
         <title>Hello, world!</title>
     </head>
     <body>
-    <nav class="navbar navbar-light" style="background-color: #50d48e;">
+    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #9dedc4;">
         <a class="navbar-brand" href="#">William David Wesp</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav">
-                <li class="nav-item active">
+                <li class="nav-item ">
                     <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
