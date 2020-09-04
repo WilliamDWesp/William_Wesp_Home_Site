@@ -26,15 +26,15 @@ include_once('../include/header.php');
 
 <div class="container-fluid">
   <div class="row">
-    <div class="col-3">
+    <div class="col-1">
       
     </div>
-    <div class="col-6">
+    <div class="col-10">
         <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="/Files/resume.pdf"></iframe>
         </div>
     </div>
-    <div class="col-3">
+    <div class="col-1">
       
     </div>
   </div>
