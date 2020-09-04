@@ -9,7 +9,7 @@ include_once('/include/header.php');
     .jumbotron p{
         font-size: 12pt;
     }
-    .embed-responsive iframe { height:100%; width:100%;};
+    .embed-responsive iframe { height:70%; width:70%;};
 
 </style>
 
