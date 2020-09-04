@@ -18,12 +18,10 @@ include_once('include/header.php');
 <body>
 
 
-<object data="resume.pdf" type="application/pdf" width="100%" height="800px"> 
-  <p>It appears you don't have a PDF plugin for this browser.
-   That is okay, you can <a href="/Files/resume.pdf">click here to
-  download the PDF file.</a></p>  
-</object>
-
+<!-- 16:9 aspect ratio -->
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="/Files/resume.pdf"></iframe>
+</div>
 
 
 
