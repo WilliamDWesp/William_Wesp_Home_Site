@@ -32,9 +32,7 @@
                 <li class="nav-item">
                     <a class="nav-link" href="/pages/resume.php">Resume</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/pages/contact.php">Contact</a>
-                </li>
+                
                 
             </ul>
         </div>

@@ -19,11 +19,6 @@ include_once('../include/header.php');
 <body>
 
 
-<!-- 16:9 aspect ratio -->
-<!-- <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="/Files/resume.pdf"></iframe>
-</div> -->
-
 <div class="container-fluid">
   <div class="row">
     <div class="col-1">
