@@ -20,11 +20,25 @@ include_once('../include/header.php');
 
 
 <!-- 16:9 aspect ratio -->
-<div class="embed-responsive embed-responsive-16by9">
+<!-- <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="/Files/resume.pdf"></iframe>
+</div> -->
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-3">
+      
+    </div>
+    <div class="col-sm">
+        <div class="embed-responsive embed-responsive-4by3">
+            <iframe class="embed-responsive-item" src="/Files/resume.pdf"></iframe>
+        </div>
+    </div>
+    <div class="col-3">
+      
+    </div>
+  </div>
 </div>
-
-
 
 
 </body>
