@@ -29,8 +29,8 @@ include_once('../include/header.php');
     <div class="col-3">
       
     </div>
-    <div class="col-sm">
-        <div class="embed-responsive embed-responsive-4by3">
+    <div class="col-6">
+        <div class="embed-responsive embed-responsive-16by9">
             <iframe class="embed-responsive-item" src="/Files/resume.pdf"></iframe>
         </div>
     </div>
